@@ -1,6 +1,7 @@
 # Mapty
- The purpose of doing the project is creating the script of https://mapty.netlify.app/ web app for the purpose of practicing OOP with Javascript.
- 
+
+This project creates the script of https://mapty.netlify.app/ website to practice OOP with Javascript.
+
 © Copyright by Jonas Schmedtmann
 
 
