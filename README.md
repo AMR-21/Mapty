@@ -1,6 +1,6 @@
 # Mapty
 
-This project creates the script of https://mapty.netlify.app/ website to practice OOP with Javascript.
+This project creates the script of https://mapty.netlify.app/ website to practice OOP with JavaScript.
 
 © Copyright by Jonas Schmedtmann
 
